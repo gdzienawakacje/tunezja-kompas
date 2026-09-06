@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gdzienawakacje.github.io/tunezja-kompas/sitemap.xml
